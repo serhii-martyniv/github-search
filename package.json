@@ -1,6 +1,6 @@
 {
   "homepage": "http://serhii-martyniv.github.io/github-search",
-  "name": "githubsearch",
+  "name": "github-search",
   "version": "0.1.0",
   "private": true,
   "proxy": "http://api.github.com",
