@@ -1,0 +1,11 @@
+.navbar {
+  background-color: #263238;
+
+  .login-block, .nav-link {
+    cursor: pointer;
+    color: #eeeeee;
+    :hover {
+      color: #eeeeee;
+    }
+  }
+}

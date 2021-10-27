@@ -1,0 +1,77 @@
+{
+  "users": [
+    {
+      "followed": false,
+      "id": 1,
+      "name": "Baletro",
+      "photos": {
+        "small":"https://via.placeholder.com/150/f66b97",
+        "large": "https://via.placeholder.com/600/f66b97"
+      },
+      "status": "Senior"
+    },
+    {
+      "followed": false,
+      "id": 2,
+      "name": "karinaol",
+      "photos": {
+        "small":"https://via.placeholder.com/150/f66b97",
+        "large": "https://via.placeholder.com/600/f66b97"
+      },
+      "status": "Middle"
+    },
+    {
+      "followed": false,
+      "id": 3,
+      "name": "mark223945",
+      "photos": {
+        "small":"https://via.placeholder.com/150/f66b97",
+        "large": "https://via.placeholder.com/600/f66b97"
+      },
+      "status": "PM"
+    },
+    {
+      "followed": false,
+      "id": 4,
+      "name": "Baletro",
+      "photos": {
+        "small":"https://via.placeholder.com/150/f66b97",
+        "large": "https://via.placeholder.com/600/f66b97"
+      },
+      "status": "Senior"
+    },
+    {
+      "followed": false,
+      "id": 5,
+      "name": "Druce",
+      "photos": {
+        "small":"https://via.placeholder.com/150/f66b97",
+        "large": "https://via.placeholder.com/600/f66b97"
+      },
+      "status": "Tester"
+    },
+    {
+      "followed": false,
+      "id": 6,
+      "name": "nikitos_samurai",
+      "photos": {
+        "small":"https://via.placeholder.com/150/f66b97",
+        "large": "https://via.placeholder.com/600/f66b97"
+      },
+      "status": "Junior"
+    },
+    {
+      "followed": false,
+      "id": 7,
+      "name": "mark6419",
+      "photos": {
+        "small":"https://via.placeholder.com/150/f66b97",
+        "large": "https://via.placeholder.com/600/f66b97"
+      },
+      "status": "Lead"
+    }
+  ],
+  "profiles": [
+    {}
+  ]
+}
